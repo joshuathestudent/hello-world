@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "npm": "^8.3.0"
+  },
+  "name": "hello-world",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuathestudent/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuathestudent/hello-world/issues"
+  },
+  "homepage": "https://github.com/joshuathestudent/hello-world#readme",
+  "engines": {
+    "node": "v16.13.1"
+  }
+}
